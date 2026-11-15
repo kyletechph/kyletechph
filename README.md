@@ -12,13 +12,3 @@ I love turning design ideas into clean, responsive interfaces and building the b
 - I design in Figma before I write a single line of code.
 - I'm a student at Northwest Samar State University.
 
-### 🎨 Featured Designs
-
-**CaterHub** – Catering marketplace for Calbayog City
-<img src="caterhub.png" alt="CaterHub" width="600"/>
-
-**Hospital Dashboard** – Patient and bed occupancy overview
-<img src="hospital.png" alt="Hospital Dashboard" width="600"/>
-
-**Class & Grading Dashboard** – Schedule and gradebook for instructors
-<img src="class.png" alt="Class Dashboard" width="600"/>
