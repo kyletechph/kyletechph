@@ -15,10 +15,10 @@ I love turning design ideas into clean, responsive interfaces and building the b
 ### 🎨 Featured Designs
 
 **CaterHub** – Catering marketplace for Calbayog City
-<img src="images/caterhub.png" alt="CaterHub" width="600"/>
+<img src="caterhub.png" alt="CaterHub" width="600"/>
 
 **Hospital Dashboard** – Patient and bed occupancy overview
-<img src="images/hospital.png" alt="Hospital Dashboard" width="600"/>
+<img src="hospital.png" alt="Hospital Dashboard" width="600"/>
 
 **Class & Grading Dashboard** – Schedule and gradebook for instructors
-<img src="images/class.png" alt="Class Dashboard" width="600"/>
+<img src="class.png" alt="Class Dashboard" width="600"/>
