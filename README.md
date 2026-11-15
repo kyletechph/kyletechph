@@ -12,3 +12,7 @@ I love turning design ideas into clean, responsive interfaces and building the b
 - I design in Figma before I write a single line of code.
 - I'm a student at Northwest Samar State University.
 
+**On going projects**
+- ERP CCIS Faculty
+- CarLoop
+- IronClad
