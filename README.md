@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**Kerabo09/Kerabo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Kyle**, a UI/UX designer and full-stack developer based in the Philippines.
 
-Here are some ideas to get you started:
+I love turning design ideas into clean, responsive interfaces and building the backend that powers them. I also enjoy brand identity and graphic design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack:** React, TypeScript, Vite, Node.js, Express, Figma, Supabase, Vercel, Firebase, Laravel.
+**AI Tools I Use:** Claude 🤖 for coding, debugging, and design ideas, Gemini ✨ for prompt writing
+
+
+**Fun Facts:**
+- I design in Figma before I write a single line of code.
+- I'm a 3rd year student at Northwest Samar State University.
