@@ -10,7 +10,7 @@ I love turning design ideas into clean, responsive interfaces and building the b
 
 **Fun Facts:**
 - I design in Figma before I write a single line of code.
-- I'm a student at Northwest Samar State University.
+- I'm a 3rd year student at Northwest Samar State University.
 
 **On going projects**
 - ERP CCIS Faculty
